@@ -8,3 +8,5 @@
 7.git log 文件名 //查看一个文件的历史提交信息
 8.git show 版本号 文件名 //查看某个版本文件修改情况
 9.git remote add origin //网址
+10.git add -A
+11.git diff HEAD -- readme.txt
